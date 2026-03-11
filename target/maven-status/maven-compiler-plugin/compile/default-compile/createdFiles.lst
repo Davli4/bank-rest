@@ -1,0 +1,6 @@
+com\example\bankcards\BankRestApplication.class
+com\example\bankcards\entity\model\User.class
+com\example\bankcards\entity\enums\RoleName.class
+com\example\bankcards\entity\enums\CardStatus.class
+com\example\bankcards\entity\model\Card.class
+com\example\bankcards\entity\model\Role.class
