@@ -1,6 +1,9 @@
+D:\Programms\IdeaProj\bank_rest\src\main\java\com\example\bankcards\repository\UserRepository.java
 D:\Programms\IdeaProj\bank_rest\src\main\java\com\example\bankcards\entity\enums\RoleName.java
 D:\Programms\IdeaProj\bank_rest\src\main\java\com\example\bankcards\entity\model\Card.java
+D:\Programms\IdeaProj\bank_rest\src\main\java\com\example\bankcards\repository\RoleRepository.java
 D:\Programms\IdeaProj\bank_rest\src\main\java\com\example\bankcards\BankRestApplication.java
 D:\Programms\IdeaProj\bank_rest\src\main\java\com\example\bankcards\entity\enums\CardStatus.java
 D:\Programms\IdeaProj\bank_rest\src\main\java\com\example\bankcards\entity\model\Role.java
 D:\Programms\IdeaProj\bank_rest\src\main\java\com\example\bankcards\entity\model\User.java
+D:\Programms\IdeaProj\bank_rest\src\main\java\com\example\bankcards\repository\CardRepository.java
