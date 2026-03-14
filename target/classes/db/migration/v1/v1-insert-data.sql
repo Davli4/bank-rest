@@ -1,5 +1,5 @@
 INSERT INTO users (username, password, email, first_name, last_name) VALUES
-('admin', '$2a$10$N.zmdr9k7uOCQb376NoUnuTJ8iAt6Z5EHsM8lE4lBO8r3krJZ1FmK', 'admin@bank.com', 'Admin', 'User'),
+('admin', '$2a$10$uCEKH9ZLdHFPF3./YLyLiuIBBJsPdqj8GOc/CUW0buJs8wromYugi', 'admin@bank.com', 'Admin', 'User'),
 ('user', '$2a$10$N.zmdr9k7uOCQb376NoUnuTJ8iAt6Z5EHsM8lE4lBO8r3krJZ1FmK', 'user@bank.com', 'Regular', 'User')
 ON CONFLICT (username) DO NOTHING;
 
