@@ -24,7 +24,7 @@ public class Card {
     private Long id;
 
     @Column(name = "card_number", nullable = false, unique = true)
-    private String cardNumber; // Будет храниться в зашифрованном виде
+    private String cardNumber;
 
     @Column(nullable = false, length = 100)
     private String owner;
